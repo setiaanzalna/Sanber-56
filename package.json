@@ -1,0 +1,14 @@
+{
+  "name": "sanber-56",
+  "version": "1.0.0",
+  "description": "test automation sanber QA bootcamp SQA\r Tugas day 7 SQA nambah data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.9.0"
+  }
+}
